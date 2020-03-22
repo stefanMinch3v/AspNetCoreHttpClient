@@ -1,2 +1,2 @@
 # AspNetCoreHttpClient
-ASP.NET Core HttpClient example
+### Example of using HttpClient in the right way with ASP.NET Core
